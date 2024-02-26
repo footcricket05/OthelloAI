@@ -1,2 +1,1 @@
-# Othello
-Mini Project for the Course Artificial Intelligence
+# Othello Using Alpha Pruning Algorithm
